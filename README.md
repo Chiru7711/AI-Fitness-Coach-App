@@ -2,6 +2,10 @@
 
 Your personal AI-powered fitness assistant that creates custom workout and diet plans just for you.
 
+## 🌐 Live Demo
+
+**Try it now:** [https://ai-fitness-coach-app-eight-brown.vercel.app/](https://ai-fitness-coach-app-eight-brown.vercel.app/)
+
 ## What It Does
 
 This app acts like a real personal trainer:
